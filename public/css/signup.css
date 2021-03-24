@@ -1,0 +1,14 @@
+body { 
+	background-image: url('/img/Backgroundsite.jpg');
+    //background-color: skyblue; 
+    text-decoration-color: white; 
+}
+.container {
+	margin: auto;
+	width: 20%;
+	border: 3px solid #ffffff;
+	margin-top: 500px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 750px;
+}
